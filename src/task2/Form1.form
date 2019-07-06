@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="task2.Form1">
+  <grid id="27dc6" binding="myPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="117" width="500" height="87"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="ff831" class="javax.swing.JButton" binding="button">
+        <constraints border-constraint="South"/>
+        <properties>
+          <text value="Нажми меня )"/>
+        </properties>
+      </component>
+      <component id="112a2" class="javax.swing.JTextField" binding="textField">
+        <constraints border-constraint="Center"/>
+        <properties/>
+      </component>
+    </children>
+  </grid>
+</form>
